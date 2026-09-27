@@ -61,7 +61,7 @@ The table below lists top commercial SaaS email marketing and automation service
 
 ## 🔓 Open-Source GitHub Projects
 
-Self-hosted email platforms provide privacy, data ownership, zero per-subscriber fees, and custom infrastructure flexibility. The list below is **sorted by GitHub Stars_Count (descending)**.
+Self-hosted email platforms provide privacy, data ownership, zero per-subscriber fees, and custom infrastructure flexibility. The list below is **sorted by GitHub_Stars_Count (descending)**.
 
 | 📦 Project | ⭐ GitHub_Stars | 🧰 Tech Stack | 📜 License | 📝 Description |
 | :--- | :---: | :--- | :--- | :--- |
