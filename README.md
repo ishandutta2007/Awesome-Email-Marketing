@@ -61,9 +61,9 @@ The table below lists top commercial SaaS email marketing and automation service
 
 ## 🔓 Open-Source GitHub Projects
 
-Self-hosted email platforms provide privacy, data ownership, zero per-subscriber fees, and custom infrastructure flexibility. The list below is **sorted by GitHub star count (descending)**.
+Self-hosted email platforms provide privacy, data ownership, zero per-subscriber fees, and custom infrastructure flexibility. The list below is **sorted by GitHub Stars_Count (descending)**.
 
-| 📦 Project | ⭐ GitHub Stars | 🧰 Tech Stack | 📜 License | 📝 Description |
+| 📦 Project | ⭐ GitHub_Stars | 🧰 Tech Stack | 📜 License | 📝 Description |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Listmonk](https://github.com/knadh/listmonk)** | [<img src="https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white" alt="Listmonk Stars"/>](https://github.com/knadh/listmonk/stargazers) | Go, Vue.js, PostgreSQL | AGPL-3.0 | Extremely fast, single-binary newsletter and mailing list manager with REST API and webhooks. |
 | **[MJML](https://github.com/mjmlio/mjml)** | [<img src="https://img.shields.io/github/stars/mjmlio/mjml?style=social&color=white" alt="MJML Stars"/>](https://github.com/mjmlio/mjml/stargazers) | JavaScript, React | MIT | Markup language designed to reduce the complexity of coding responsive HTML emails. |
@@ -93,7 +93,7 @@ Contributions are warmly welcome! To add a SaaS platform or open-source tool:
 
 1. Fork this repository.
 2. Update `README.md` following the tabular formatting.
-3. Ensure links, pricing details, star counts, and licenses are accurate.
+3. Ensure links, pricing details, Stars_Counts, and licenses are accurate.
 4. Check out the curated collection on [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
 5. Submit a Pull Request!
 
